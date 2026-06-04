@@ -1,0 +1,14 @@
+F:\Note\bin\Debug\net10.0\Note.exe
+F:\Note\bin\Debug\net10.0\Note.deps.json
+F:\Note\bin\Debug\net10.0\Note.runtimeconfig.json
+F:\Note\bin\Debug\net10.0\Note.dll
+F:\Note\bin\Debug\net10.0\Note.pdb
+F:\Note\obj\Debug\net10.0\Note.GeneratedMSBuildEditorConfig.editorconfig
+F:\Note\obj\Debug\net10.0\Note.AssemblyInfoInputs.cache
+F:\Note\obj\Debug\net10.0\Note.AssemblyInfo.cs
+F:\Note\obj\Debug\net10.0\Note.csproj.CoreCompileInputs.cache
+F:\Note\obj\Debug\net10.0\Note.dll
+F:\Note\obj\Debug\net10.0\refint\Note.dll
+F:\Note\obj\Debug\net10.0\Note.pdb
+F:\Note\obj\Debug\net10.0\Note.genruntimeconfig.cache
+F:\Note\obj\Debug\net10.0\ref\Note.dll
