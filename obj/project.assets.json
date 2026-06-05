@@ -430,32 +430,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\28925\\.nuget\\packages\\": {},
-    "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\l\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Note\\Note.csproj",
+      "projectUniqueName": "E:\\develop_c#\\word\\Note\\Note.csproj",
       "projectName": "Note",
-      "projectPath": "F:\\Note\\Note.csproj",
-      "packagesPath": "C:\\Users\\28925\\.nuget\\packages\\",
-      "outputPath": "F:\\Note\\obj\\",
+      "projectPath": "E:\\develop_c#\\word\\Note\\Note.csproj",
+      "packagesPath": "C:\\Users\\l\\.nuget\\packages\\",
+      "outputPath": "E:\\develop_c#\\word\\Note\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\28925\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\l\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

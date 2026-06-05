@@ -31,6 +31,10 @@ class Debug
                 string[] words = new ImpJieba().Cut(text);
                 Console.WriteLine("分词结果: " + string.Join("\n", words));
             }
+            else
+            {
+                Console.WriteLine("选择错误");
+            }
         }
     }
 }
