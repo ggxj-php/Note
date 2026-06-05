@@ -1,7 +1,8 @@
 using System;
 using System.Windows.Forms;
 using UI;
-
+using Implements;
+using Microsoft.VisualBasic.Logging;
 class Program
 {
     [STAThread]
