@@ -1,4 +1,4 @@
-# 编译输出
+# Build results
 [Bb]in/
 [Oo]bj/
 
@@ -8,6 +8,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+
+# Visual Studio Code
+.vscode/
 
 # NuGet
 packages/
